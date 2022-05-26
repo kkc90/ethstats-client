@@ -12,11 +12,13 @@
     "chalk": "^1.0.0",
     "debounce": "1.0.0",
     "debug": "2.2.0",
+    "dotenv": "^16.0.1",
     "lodash": "4.1.0",
+    "node-fetch": "^3.2.3",
     "primus": "4.0.5",
     "primus-emit": "1.0.0",
     "primus-spark-latency": "0.1.1",
-    "web3": "0.15.3",
+    "web3": "^0.15.3",
     "ws": "^1.0.1"
   },
   "scripts": {
